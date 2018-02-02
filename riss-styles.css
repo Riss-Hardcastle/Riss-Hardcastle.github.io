@@ -6,6 +6,11 @@ body {
 	position: relative;
 	background-color: #fff;
 }
+
+h1 h2 {
+	text-align: center;
+}
+
 p {
   border: 1px solid #ddd;
     border-radius: 3px;
